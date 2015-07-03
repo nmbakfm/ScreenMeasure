@@ -1,5 +1,5 @@
 dependencies: \
-  /Users/nmbakfm/lab/of_v0.8.4_osx_release/libs/openFrameworks/utils/ofThread.cpp \
+  /Users/nmbakfm/lab/ScreenMeasure/libs/openFrameworks/utils/ofThread.cpp \
   ../../../../libs/openFrameworks/utils/ofThread.h \
   ../../../../libs/poco/include/Poco/AtomicCounter.h \
   ../../../../libs/poco/include/Poco/Foundation.h \
@@ -23,11 +23,11 @@ dependencies: \
   ../../../../libs/openFrameworks/utils/ofConstants.h \
   ../../../../libs/glew/include/GL/glew.h \
   ../../../../libs/tess2/include/tesselator.h \
-  /Users/nmbakfm/lab/of_v0.8.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
+  /Users/nmbakfm/lab/ScreenMeasure/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofTypes.h \
   ../../../../libs/openFrameworks/types/ofColor.h \
-  /Users/nmbakfm/lab/of_v0.8.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
-  /Users/nmbakfm/lab/of_v0.8.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
-  /Users/nmbakfm/lab/of_v0.8.4_osx_release/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
+  /Users/nmbakfm/lab/ScreenMeasure/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofMath.h \
+  /Users/nmbakfm/lab/ScreenMeasure/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/types/ofPoint.h \
+  /Users/nmbakfm/lab/ScreenMeasure/libs/openFrameworksCompiled/project/osx/../../../openFrameworks/math/ofVec3f.h \
   ../../../../libs/openFrameworks/math/ofVec2f.h \
   ../../../../libs/openFrameworks/math/ofVec4f.h \
   ../../../../libs/openFrameworks/utils/ofLog.h \
