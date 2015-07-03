@@ -9,7 +9,7 @@ void ofApp::setup(){
     
     ofBackground(0);
     
-    font.loadFont("Helvetica Neue", 50);
+    font.loadFont("Helvetica Neue Bold", 50);
 }
 
 //--------------------------------------------------------------
